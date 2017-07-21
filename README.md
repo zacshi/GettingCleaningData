@@ -1,7 +1,7 @@
 # Getting Cleaning Data
 
 This is part of the assignment from week 4 in the "Getting Cleaning Data" Course. 
-Within this Github project, I have uploaded 4 new files: 
+Within this Github project, I have uploaded 4 files: 
 
 1. README.md this file itself
 2. CodeBook.md a file explain the variables and other information in the tyde dataset
